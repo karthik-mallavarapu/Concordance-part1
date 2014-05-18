@@ -1,0 +1,1 @@
+This is a "good" test to verify that the program does not consider punctuations like -, ', ". Also abbreviations like e.g., p.m., a.m. etc. are considered. 
